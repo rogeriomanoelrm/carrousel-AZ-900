@@ -1,5 +1,5 @@
 # Carrossel-js
 Desenvolvendo Carrossel Treino
 
-![image](https://user-images.githubusercontent.com/83734913/217064065-fecc92b0-e442-41ca-85c4-edcbe981c37e.png)
 
+![landon-parenteau-zuQVzj31_B8-unsplash](https://github.com/rogeriomanoelrm/carrousel-AZ-900/assets/77088268/9c7cb178-8e62-4ce4-b783-bb78cf5487e3)
